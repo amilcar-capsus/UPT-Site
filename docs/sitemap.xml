@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://amilcar-capsus.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://amilcar-capsus.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://amilcar-capsus.github.io/posts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/release-notes/</loc>
+    <loc>https://amilcar-capsus.github.io/posts/release-notes/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://amilcar-capsus.github.io/tags/</loc>
   </url>
   
 </urlset>
