@@ -1,0 +1,80 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Geoportal and UPT"
+theme = "bHugo"
+publishDir = "docs"
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Organize, disseminate and analyze spatial data in one single platform"
+  logo = "img/logo.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "CAPSUS"
+  email = "ideas@capsus.mx"
+  facebook = "capitalsustentable/"
+#  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+#  gitlab = "username"
+#  github = "username"
+  twitter = "capsusmx"
+#  reddit = "username"
+# linkedin = "CAPSUS S.C."
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+# youtube = "user/username" # or channel/channelname
+  youtube = "watch?v=Gy2vTgwmyH8" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  keybase = "username"
+
+[[menu.main]]
+    identifier = "cases"
+    name = "Case Studies"
+    weight = 1
+
+#[[menu.main]]
+#    parent = "cases"
+#    name = "Colima"
+#    url = "page/colima"
+#    weight = 2
+
+[[menu.main]]
+    name = "Release Notes"
+    url = "/posts/release-notes/"
+    weight = 10
+
+[[menu.main]]
+    name = "Git"
+    url = "https://github.com/users/UPTechMX/projects/1"
+    weight = 11
+    
+[[menu.main]]
+    name = "Contact us"
+    url = "/page/my-first-post/"
+    weight = 12
