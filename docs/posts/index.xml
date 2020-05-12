@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Geoportal and UPT</title>
-    <link>https://amilcar-capsus.github.io/posts/</link>
+    <link>https://amilcar-capsus.github.io/UPT-Site/posts/</link>
     <description>Recent content in Posts on Geoportal and UPT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ideas@capsus.mx (CAPSUS)</managingEditor>
     <webMaster>ideas@capsus.mx (CAPSUS)</webMaster>
     
-	<atom:link href="https://amilcar-capsus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amilcar-capsus.github.io/UPT-Site/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Release Notes</title>
-      <link>https://amilcar-capsus.github.io/posts/release-notes/</link>
+      <link>https://amilcar-capsus.github.io/UPT-Site/posts/release-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ideas@capsus.mx (CAPSUS)</author>
-      <guid>https://amilcar-capsus.github.io/posts/release-notes/</guid>
+      <guid>https://amilcar-capsus.github.io/UPT-Site/posts/release-notes/</guid>
       <description>Release Notes Table of contents  General  New Features Bugfixes Improvements Adjustments Documentation Future Improvements Known Issues   Urban Performance  New Features Bugfixes Improvements Adjustments Documentation Future Improvements Known Issues   Urban Hotspots  New Features Bugfixes Improvements Adjustments Documentation Future Improvements Known Issues    General New Features  Roles were implemented to only allow certain users to make use of the UPT (UrbanPerformance and UrbanHotspots).</description>
     </item>
     

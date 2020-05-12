@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amilcar-capsus.github.io/</loc>
+    <loc>https://amilcar-capsus.github.io/UPT-Site/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://amilcar-capsus.github.io/categories/</loc>
+    <loc>https://amilcar-capsus.github.io/UPT-Site/categories/</loc>
   </url>
   
   <url>
-    <loc>https://amilcar-capsus.github.io/posts/</loc>
+    <loc>https://amilcar-capsus.github.io/UPT-Site/posts/</loc>
   </url>
   
   <url>
-    <loc>https://amilcar-capsus.github.io/posts/release-notes/</loc>
+    <loc>https://amilcar-capsus.github.io/UPT-Site/posts/release-notes/</loc>
   </url>
   
   <url>
-    <loc>https://amilcar-capsus.github.io/tags/</loc>
+    <loc>https://amilcar-capsus.github.io/UPT-Site/tags/</loc>
   </url>
   
 </urlset>
